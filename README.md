@@ -4,8 +4,8 @@
 
 A simple web template made with Bootstrap 5.0
 
-// Modal
-// Mobile Menu
-// Accordion
+✅ Modal
+✅ Mobile Menu
+✅ Accordion
 
 Live Demo : https://asieef.github.io/bootstart/
